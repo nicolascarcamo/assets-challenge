@@ -44,7 +44,7 @@ cp .env.example .env   # si lo incluyes, o exporta la var
 python dummies.py   # inserta 500 filas en cubo
 ```
 
-## 3. Aplicación Next.js
+## 4. Aplicación Next.js
 
 Para conectar con la base de datos, crea un archivo `.env.local` en la raíz de `assets-ops` con:
 

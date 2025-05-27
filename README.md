@@ -31,7 +31,7 @@ psql "$DATABASE_URL" -f sql/P4.sql
 
 ---
 
-## 2. Consultas SQL
+## 3. Script generadora de Dummies
 
 ```bash
 cd scripts

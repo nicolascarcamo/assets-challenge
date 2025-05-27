@@ -7,7 +7,7 @@ Este repo contiene:
 | **/sql** | Consultas SQL (una por pregunta) y DDL de la solución subcartera |
 | **/scripts** | Script Python que genera >500 registros falsos en `cubo` |
 | **/assets-ops** | Aplicación Next.js que permite crear meses + semanas |
-| **/db** | Archivo original del desafío |
+| **/db** | Carpeta original del desafío |
 
 ## 1. Prerrequisitos
 * PostgreSQL ≥ 12 ya con las tablas descritas en el enunciado.
